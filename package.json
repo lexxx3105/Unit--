@@ -1,0 +1,20 @@
+{
+  "name": "unit--",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "jast": "^0.2.1"
+  },
+  "dependencies": {
+    "core-js": "^3.35.1"
+  }
+}
